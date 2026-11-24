@@ -1,6 +1,6 @@
 # ShopBrasil – Pipeline de preços por categoria (Airflow)
 
-Substitui o script em cron por uma DAG Airflow: **FakeStore API → métricas por categoria → PostgreSQL**.
+
 
 ## Como subir (Docker Desktop / PowerShell)
 
